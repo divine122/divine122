@@ -163,19 +163,16 @@ A backend system for managing student-related information.
 - 🤝 Contribute to open source
 
 ---
-
 ## 🌱 Currently Learning
 
-```text
-Python
-Django
-Django REST Framework
-PostgreSQL
-Docker
-API Architecture
-Deployment
+Python  
+Django  
+Django REST Framework  
+PostgreSQL  
+Docker  
+API Architecture  
+Deployment  
 System Design
-
 
 ---
 
@@ -195,4 +192,4 @@ System Design
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 
-</div>```
+</div>
