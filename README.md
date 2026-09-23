@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="./deelove.png" width="180" alt="Divvy">
-
 # Hi, I'm Divvy 👋🏽
 
 ### Backend Developer • Python • Django • REST APIs
